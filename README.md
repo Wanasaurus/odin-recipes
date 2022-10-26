@@ -1,2 +1,2 @@
 # odin-recipes
-As part of The Odin Project Foundation course, I created a basic recipe website. I began by buidling the pages using HTML.
+As part of The Odin Project Foundation course, I created a basic recipe website. I began by buidling the pages using HTML, then I used CSS to make the pages look nice. All recipes are by me, and I took the photos too. I enjoy cooking!
