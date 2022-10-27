@@ -1,6 +1,20 @@
-h1 {
-    color: purple;
+body {
+    background-color: #d9d3ca;
 }
+h1 {
+    color: #5c3f29;
+}
+
+h2 {
+    color: #5c3f29;
+}
+
+p, li {
+    color: #1f1f1d;
+    font-family: "Calibri", sans-serif;
+    font-size: 18px;
+}
+
 img {
     height: auto;
     width: 500px;
